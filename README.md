@@ -1,6 +1,6 @@
 # Analisis Data Lowongan Pekerjaan Bidang Data di JobStreet Indonesia
 
-Proyek ini merupakan **Proyek Akhir Mata Kuliah Pemrosesan Data (Semester 2)** di Program Studi Sains Data Terapan, Politeknik Elektronika Negeri Surabaya (PENS). Proyek ini bertujuan untuk mengekstrak, membersihkan, dan menganalisis data lowongan pekerjaan di bidang *Data* dari situs JobStreet Indonesia untuk memahami tren pasar kerja saat ini.
+Proyek ini merupakan **Proyek Akhir Mata Kuliah Pemrosesan Data (Semester 2)** di Program Studi Sains Data Terapan, Politeknik Elektronika Negeri Surabaya (PENS). Proyek ini bertujuan untuk mengekstrak, membersihkan, dan menganalisis data lowongan pekerjaan di bidang *Data* dari situs JobStreet Indonesia untuk memahami tren pasar kerja.
 
 ## 👥 Tim Peneliti
 - Ziyad Yusuf Fauzan (3324600001)
